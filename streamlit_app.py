@@ -1,10 +1,10 @@
 import streamlit as st
 from groq import Groq
 
-st.set_page_config(page_title="Deepseek Demo", page_icon="💬", layout="wide")
+st.set_page_config(page_title="DeepSeek Demo", page_icon="💬", layout="wide")
 
 # Show title and description.
-st.title("💬 Deepseek Demo Chatbot")
+st.title("💬 DeepSeek Demo Chatbot")
 st.write(
     "Can open-source AI models solve your problems? 🤔 "
 )
